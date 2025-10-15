@@ -22,7 +22,7 @@ Once the model is trained, we evaluate its performance on the testing dataset. W
 
 ## Usage 💪🏻
 To run the project locally, follow these steps:
-1. Clone this repository: `git clone https://github.com/034adarsh/Stock-Price-Prediction-Using-LSTM`
+1. Clone this repository: `git clone https://github.com/Vaibhavv27/Stock-Price-Prediction-Using-LSTM`
 2. No need to download any dataset, this project uses Yahoo finance library to directly fetch data, just write the correct company code.
 3. Run the `training code` script in the notebook to train the LSTM model.
 4. Run the `predict code` script in the notebook to make predictions on new data.
@@ -46,3 +46,4 @@ For any questions or inquiries, feel free to reach out to us:
 Let's make accurate stock market predictions together!
 
 Thank you for visiting our project repository. Happy predicting! 😇
+
